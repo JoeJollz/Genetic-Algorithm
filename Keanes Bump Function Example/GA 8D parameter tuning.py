@@ -4,7 +4,6 @@ Created on Fri Jan 12 13:10:06 2024
 
 @author: jrjol
 """
-
 import random
 import numpy as np
 import math as m
