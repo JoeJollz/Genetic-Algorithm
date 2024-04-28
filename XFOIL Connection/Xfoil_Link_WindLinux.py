@@ -19,8 +19,8 @@ out.write(
 naca 4415
 panel
 OPER
-V 1e-5
-Re 1e5
+iter 200
+visc
 A 5
 !
 
@@ -53,6 +53,7 @@ if matches:
     cl = matches.group(1)
     print("Lift coefficient =", cl)
 else:
+    cl = 0
     print("CL not found")
 
 # Search for CD value
@@ -61,4 +62,5 @@ if matches:
     cd = matches.group(1)
     print("Drag coefficient =", cd)
 else:
+    cd = 0
     print("CD not found")
