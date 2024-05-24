@@ -8,4 +8,6 @@ To complete this task, Evolutionary Algorithms were employed, primarily the Gene
 
 $$ \text{MAX} \frac{Cp}{\text{Volume}} $$
 
+Several subject to constraints were also employed.
+
 ![Lithium Bromide - Water Absorption Cooling Cycle](WindTurbine.JPG)
