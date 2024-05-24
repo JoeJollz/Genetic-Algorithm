@@ -1,6 +1,6 @@
 # Wind Turbine Optimisation Code
 
-This project optimises the desing of a 3D section wind turbine. 
+This project optimises the design of a 3D section wind turbine. 
 
 The specifications are 1m swept radius. Inflow wind velocity of 1.5m/s.
 
