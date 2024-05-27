@@ -10,4 +10,4 @@ $$ \text{MAX} \frac{Cp}{\text{Volume}} $$
 
 Several subject to constraints were also employed.
 
-![Lithium Bromide - Water Absorption Cooling Cycle](WindTurbine.JPG)
+![Lithium Bromide - Water Absorption Cooling Cycle](WindTurbine2.JPG)
